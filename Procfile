@@ -1,1 +1,0 @@
-web: java -jar rag-referee-0.1.0.jar
